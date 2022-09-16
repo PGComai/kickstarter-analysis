@@ -48,7 +48,7 @@ campaigns with such large goals are less predictable than those with smaller one
 When calculating the outcomes based on funding goals, I spent a while trying to
 figure out why my formula was returning 0 for the entire 'number canceled' category.
 It turned out that I was spelling canceled wrong, but more importantly, it also turned
-out that there really were 0 cancelled projects in the 'plays' subcategory. This is 
+out that there really were 0 canceled projects in the 'plays' subcategory. This is 
 great news for people who want to fund a play and don't want to end up cancelling it.
 
 ## Results
