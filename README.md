@@ -17,7 +17,7 @@ might best set up her campaign for success.
 Here is a line chart showing how campaigns for theater projects fared based on their
 launch dates.
 
-insert link here
+/resources/Outcomes_vs_Goals.png
 
 An immediate conclusion we can draw is that the month of May is great for launching
 your theater campaign. This advantage slowly decreases until August, at which point 
