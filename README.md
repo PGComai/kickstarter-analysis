@@ -17,7 +17,7 @@ might best set up her campaign for success.
 Here is a line chart showing how campaigns for theater projects fared based on their
 launch dates.
 
-![image](/resources/Outcomes_vs_Goals.png)
+![image](/resources/Theater_Outcomes_vs_Launch.png)
 
 An immediate conclusion we can draw is that the month of May is great for launching
 your theater campaign. This advantage slowly decreases until August, at which point 
@@ -31,7 +31,7 @@ Up next, a line chart comparing campaign outcomes according to how much money th
 asked for, the fundraising goal. The dotted line represents the percentage of projects 
 within the given funding goal.
 
-insert link here
+![image](/resources/Outcomes_vs_Goals.png)
 
 The odds of fundraising success (blue line) trend downward as the funding goal
 increases, except for the $30,000 to $45,000 range, where it goes back up.
